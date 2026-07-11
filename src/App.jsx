@@ -401,7 +401,7 @@ export default function App() {
             <Divider icon="🌸"/>
             <p style={{ fontFamily:"'Amiri',serif", fontSize:"1.2rem", color:"var(--txt2)", margin:"16px 0 8px" }}>🕘 الساعة التاسعة مساءً</p>
             <p style={{ fontFamily:"'Amiri',serif", fontSize:"1.05rem", color:"var(--txt3)" }}>📍 قاعة بارادايس — زفتى، الغربية</p>
-            <a href="https://maps.app.goo.gl/RGLAqGFDK9EEoN3i9"
+            <a href="https://maps.app.goo.gl/DhWomWwueeFM4UEo6"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
