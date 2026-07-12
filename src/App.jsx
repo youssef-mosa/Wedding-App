@@ -6,12 +6,15 @@ import OrnamentBorder from "./components/OrnamentBorder";
 import { useCountdown } from "./hooks/useCountdown";
 import { useReveal } from "./hooks/useReveal";
 import Petals from "./components/Petals";
+import photo1 from "../public/flowers.jpeg";
+import photo2 from "../public/glass.jpeg";
+import photo3 from "../public/thoush.jpeg";
 
 // ─── Photos ───────────────────────────────────────────────────────────────────
 const PHOTOS = [
-  "../dist/flowers.jpeg",
-  "../dist/glass.jpeg",
-  "../dist/thoush.jpeg",
+  photo1,
+  photo2,
+  photo3,
   "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=600&q=85",
   "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=600&q=85",
 ];
