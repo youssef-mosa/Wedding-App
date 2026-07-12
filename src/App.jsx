@@ -9,9 +9,9 @@ import Petals from "./components/Petals";
 
 // ─── Photos ───────────────────────────────────────────────────────────────────
 const PHOTOS = [
-  "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&q=85",
-  "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=600&q=85",
-  "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=600&q=85",
+  "public/flowers.jpeg",
+  "public/glass.jpeg",
+  "public/thoush.jpeg",
   "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=600&q=85",
   "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=600&q=85",
 ];
