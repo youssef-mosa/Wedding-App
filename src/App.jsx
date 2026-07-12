@@ -9,13 +9,12 @@ import Petals from "./components/Petals";
 
 // ─── Photos ───────────────────────────────────────────────────────────────────
 const PHOTOS = [
-  "/flowers.jpeg",
-  "/glass.jpeg",
-  "/thoush.jpeg",
+  "../dist/flowers.jpeg",
+  "../dist/glass.jpeg",
+  "../dist/thoush.jpeg",
   "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=600&q=85",
   "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=600&q=85",
 ];
-
 const WEDDING_DATE = new Date("2026-07-20T21:00:00");
 
 // ─── Hero Section ─────────────────────────────────────────────────────────────
